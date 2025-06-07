@@ -53,6 +53,9 @@ FileConverter/
 
 <p>
   <img src="https://github.com/AshwathShettyK/FileConverter/blob/main/screenshot/Screenshot-1.png" width="600" alt="Main UI">
+  <img src="https://github.com/AshwathShettyK/FileConverter/blob/main/screenshot/Screenshot-2.png" width="600" alt="Main UI">
+  <img src="https://github.com/AshwathShettyK/FileConverter/blob/main/screenshot/Screenshot-3.png" width="600" alt="Main UI">
+  <img src="https://github.com/AshwathShettyK/FileConverter/blob/main/screenshot/Screenshot-4.png" width="600" alt="Main UI">
 </p>
 
 <h2>🛠️ How to Run</h2>
