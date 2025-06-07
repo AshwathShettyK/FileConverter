@@ -52,7 +52,7 @@ FileConverter/
 <h2>📸 Screenshots</h2>
 
 <p>
-  <img src="https://raw.githubusercontent.com/AshwathShettyK/FileConverter/main/screenshots/home.png" width="600" alt="Main UI">
+  <img src="https://github.com/AshwathShettyK/FileConverter/blob/main/screenshot/Screenshot-1.png" width="600" alt="Main UI">
 </p>
 
 <h2>🛠️ How to Run</h2>
