@@ -1,0 +1,5 @@
+# Ignore ffmpeg.exe
+ffmpeg.exe
+
+# Ignore the Input folder and all its contents
+Input/
